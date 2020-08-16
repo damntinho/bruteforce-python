@@ -13,6 +13,6 @@ Feel free to create your solutions using this code as a base!
 # Screenshots
 
 <p align="center">
-  <img src="screenshots/code-bruteforce.png" height="350" title="hover text">
-  <img src="screenshots/terminal-bruteforce.png" height="350" title="hover text">
+  <img src="screenshots/code-bruteforce.png" height="250" title="hover text">
+  <img src="screenshots/terminal-bruteforce.png" height="250" title="hover text">
 </p>
